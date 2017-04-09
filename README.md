@@ -1,3 +1,6 @@
+This project holds Calvin Gehred-O'Connell's test scripts for https://the-internet.herokuapp.com/ built off of the Selenium Maven Template described below.
+
+
 Selenium-Maven-Template
 =======================
 
